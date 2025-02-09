@@ -27,7 +27,7 @@ Hi there! I'm **Raj**, a passionate young developer with a strong background in 
 
 ## 📫 Connect with Me  
 
-- **GitHub:** [github.com/YourGitHubUsername](https://github.com/Therajop)  
+- **GitHub:** [github.com/Therajop](https://github.com/Therajop)  
 - **Email:** rajvirkumar034@gmail.com 
  *(optional)*  
 
